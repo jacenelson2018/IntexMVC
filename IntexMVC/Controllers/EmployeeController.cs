@@ -6,18 +6,12 @@ using System.Web.Mvc;
 
 namespace IntexMVC.Controllers
 {
-    public class HomeController : Controller
+    public class EmployeeController : Controller
     {
+        // GET: Employee
         public ActionResult Index()
         {
-            ViewBag.Title="Northwest Labs";
-            return View();
-        }
-
-        public ActionResult LogIn()
-        {
-
             return View();
         }
     }
-}//Emma's Comment
+}
