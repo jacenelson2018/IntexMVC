@@ -15,7 +15,7 @@ namespace IntexMVC.Models
         public int Sequence_Code { get; set; }
 
         public int Compound_ID { get; set; }
-        
+
         public int Work_Order_ID { get; set; }
 
         public int Quantity { get; set; }
