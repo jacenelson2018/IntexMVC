@@ -1,4 +1,4 @@
-﻿using IntexMVC.Models;
+using IntexMVC.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -19,6 +19,7 @@ namespace IntexMVC.DAL
         public DbSet<Compounds> Compounds { get; set; }
         public DbSet<Assays> Assays { get; set; }
         public DbSet<WorkOrders> WorkOrders { get; set; }
+        //comments bro
 
     }
 }
