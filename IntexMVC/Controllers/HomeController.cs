@@ -19,5 +19,21 @@ namespace IntexMVC.Controllers
 
             return View();
         }
+
+        public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            return View();
+
+        }
+
+        public ActionResult Services()
+        {
+            return View();
+        }
     }
 }//Emma's Comment
