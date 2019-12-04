@@ -16,6 +16,8 @@ namespace IntexMVC.DAL
         }
 
         public DbSet<Customers> Customers { get; set; }
+        public DbSet<WorkOrders> WorkOrder { get; set; }
+
         
     }
 }
