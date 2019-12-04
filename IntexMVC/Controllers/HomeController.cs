@@ -35,5 +35,10 @@ namespace IntexMVC.Controllers
         {
             return View();
         }
+
+        public ActionResult OrderStatus()
+        {
+            return View();
+        }
     }
 }//Emma's Comment
