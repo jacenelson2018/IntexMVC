@@ -169,9 +169,7 @@
     </Compile>
     <Compile Include="Models\Credentials.cs" />
     <Compile Include="Models\Customers.cs" />
-    <Compile Include="Models\DisplayOrder.cs" />
     <Compile Include="Models\IdentityModels.cs" />
-    <Compile Include="Models\WorkOrders.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\AccountViewModels.cs" />
