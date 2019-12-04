@@ -14,5 +14,7 @@ namespace IntexMVC.Context
         { }
 
         public System.Data.Entity.DbSet<AppUser> AppUsers { get; set; }
+
+        public System.Data.Entity.DbSet<IntexMVC.Models.Credentials> Credentials { get; set; }
     }
 }
