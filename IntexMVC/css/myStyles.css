@@ -1,0 +1,10 @@
+﻿.floatFooter {
+    margin: auto;
+    text-align: center;
+    z-index: 501;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffffff;
+    opacity: 1;
+}
