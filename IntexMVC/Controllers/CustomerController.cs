@@ -14,7 +14,7 @@ namespace IntexMVC.Controllers
     public class CustomerController : Controller
     {
         private IntexContext db = new IntexContext();
-
+        
         // GET: Customer
         public ActionResult Index()
         {
